@@ -3,7 +3,7 @@
 ## Kyra's remarks
 
 ### citations / worked with / received help from
-I worked with Samuel Tan and Oscar Dorr in clearing confusion on both the coding and handwritten portion of the assignment. I asked them questions and together we worked on finding the answer.
+I worked with Samuel Tan and Oscar Dorr in clearing confusion on both the coding and handwritten portion of the assignment. I asked them questions and together we worked on finding the answer. I also asked Yevgeniy Gorbachev for help on solution U because I was slightly confused and he explained the issue to me.
 
 ## Holmes's remarks
 
