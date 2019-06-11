@@ -61,7 +61,7 @@ public class SolverForQueensPuzzle {
         // Which has been requested, a base case or recursive case?
             // action(s) for base case(s)
             if (inProgress.accept()){
-                solutions.add(inProgress);
+                solutions.add(new BoardForQueens(inProgress));
                 System.out.println( "  for debugging: base case detected for..."
                                   + System.lineSeparator()
                                   + inProgress
